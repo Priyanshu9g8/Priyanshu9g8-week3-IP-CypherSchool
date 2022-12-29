@@ -1,0 +1,10 @@
+
+p{
+    front-family: 'Poppins';
+    front-weidth: normal;
+}
+h1{
+    front-family: 'Poppins', sans-serif;
+    front-weidth:400;
+    front-style:italic;
+}
